@@ -16,6 +16,8 @@ All the data analysis(pandas) works.........
 
 ├── Matplotlib - 2
 
-├──Salaries
+├── Salaries
 
-├──
+├── Salary
+
+├── Titanic
